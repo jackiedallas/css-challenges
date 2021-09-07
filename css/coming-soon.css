@@ -18,9 +18,10 @@ body {
 }
 
 #main-header {
+    font-size: 75px;
     font-family: 'Major Mono Display', monospace;
     position: fixed;
-    top: 25%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
@@ -30,6 +31,7 @@ body {
 }
 
 #countdown {
+    font-size: 35px;
     font-family: 'Major Mono Display', monospace;
     position: fixed;
     top: 35%;
